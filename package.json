@@ -1,0 +1,26 @@
+{
+  "name": "zhanghua_date",
+  "version": "1.0.14",
+  "description": "zhanghua_date is a node.js package that parses, validates, manipulates, and displays dates and times (zhanghua_date 是一个轻量的处理时间和日期的nodejs库)",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "author": "Hua Zhang( 张 华)",
+  "license": "MIT",
+  "keywords": ["datetime","date","time","tool","时间","日期"],
+  "dependencies": {
+    "mocha": "^9.2.0"
+  },
+  "files": [
+	  "index.js",
+    "package-lock.json",
+		"LicenseCN.md",
+    "LicenseEN.md",
+    "README.md",
+    "README_CN.md",
+    "scr",
+    "test",
+    "node_modules"
+	]
+}
