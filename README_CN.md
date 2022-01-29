@@ -1,4 +1,4 @@
-## **[English Edition](README.md)**   <u>**中文版说明**</u> 
+## **[English Edition](https://github.com/huaonline2003/zhanghua_date/blob/main/README.md)**   <u>**中文版说明**</u> 
 
 ![NPM](https://img.shields.io/npm/l/zhanghua_date)   ![npm](https://img.shields.io/npm/dw/zhanghua_date)  ![npm collaborators](https://img.shields.io/npm/collaborators/zhanghua_date)   ![npm bundle size](https://img.shields.io/bundlephobia/min/zhanghua_date)
 
@@ -241,7 +241,7 @@
 
 ### 6、版权说明
 
-​    该项目执行MIT授权许可，详情请参阅[MIT协议](LicenseCN.md)
+​    该项目执行MIT授权许可，详情请参阅[MIT协议](https://github.com/huaonline2003/zhanghua_date/blob/main/LicenseCN.md)
 
 ### 7、版本控制
 

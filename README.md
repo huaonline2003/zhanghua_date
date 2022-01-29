@@ -1,4 +1,4 @@
-## <u>English Edition</u>   <u>[中文版说明](README_CN.md)</u>
+## <u>English Edition</u>   <u>[中文版说明](https://github.com/huaonline2003/zhanghua_date/blob/main/README_CN.md)</u>
 
 ![NPM](https://img.shields.io/npm/l/zhanghua_date)   ![npm](https://img.shields.io/npm/dw/zhanghua_date)  ![npm collaborators](https://img.shields.io/npm/collaborators/zhanghua_date)   ![npm bundle size](https://img.shields.io/bundlephobia/min/zhanghua_date)
 
@@ -256,7 +256,7 @@ Take  2022-01-09 09:30:05:056  as an example
 
 ### 6、License
 
-​     This package is licensed under a [MIT License](LicenseEN.md). 
+​     This package is licensed under a [MIT License](https://github.com/huaonline2003/zhanghua_date/blob/main/LicenseEN.md). 
 
 ### 7、Version
 
