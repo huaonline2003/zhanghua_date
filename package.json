@@ -1,6 +1,6 @@
 {
   "name": "zhanghua_date",
-  "version": "1.0.10",
+  "version": "1.0.16",
   "description": "zhanghua_date is a node.js package that parses, validates, manipulates, and displays dates and times (zhanghua_date 是一个轻量的处理时间和日期的nodejs库)",
   "main": "index.js",
   "scripts": {
